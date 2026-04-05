@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Gradient text animation */
+@keyframes textGradient {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.text-gradient {
+  background: linear-gradient(270deg, #ffffff, #00ffcc, #00aaff, #ffffff);
+  background-size: 600% 600%;
+  -webkit-background-clip: text; /* Chrome/Safari */
+  -webkit-text-fill-color: transparent;
+  background-clip: text;          /* Standard fallback */
+  animation: textGradient 5s ease infinite;
+}
