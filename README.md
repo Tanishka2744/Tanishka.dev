@@ -1,16 +1,45 @@
-# React + Vite
+# 🌟 Tanishka.dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer** passionate about crafting **modern, responsive, and high-performance web experiences** using **React.js** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+💡 **Tanishka.dev** is my personal portfolio that **showcases my skills, projects, and professional journey** in a clean, interactive, and visually appealing way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌈 Tech Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend:** ⚛️ React.js | 💻 JavaScript (ES6+) | 🌐 HTML5 / CSS3  
+**Styling & Animations:** 🎨 Tailwind CSS | ✨ Framer Motion | 🖌️ Responsive Design  
+**Tools & Workflow:** 🐙 Git & GitHub | 🖥️ VSCode | 🔍 Chrome DevTools  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 About Tanishka.dev
+
+- Designed to **showcase my frontend development skills** and UI/UX capabilities  
+- Fully **responsive and mobile-first design**  
+- Built with **modern React patterns** for scalability and maintainability  
+- Styled using **Tailwind CSS** for a clean, professional, and modern look  
+- Focused on **performance, accessibility, and interactive user experience**  
+- Highlights my **professional journey, skills, and project portfolio**  
+
+---
+
+## 🌱 Growth & Learning
+
+Through **Tanishka.dev**, I continue to:  
+
+- ⚡ Explore advanced **React.js techniques and component architecture**  
+- 🎞️ Implement **animations and smooth micro-interactions**  
+- 🌐 Create **accessible and user-friendly interfaces**  
+- 💻 Turn **ideas into fully functional web experiences**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://tanishka.dev) | [💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal/) | [🐙 GitHub](https://github.com/YourUsername) | [📧 Email](mailto:tanishka@example.com)
+
+---
+
+Made with ❤️ using **React.js** & **Tailwind CSS**
