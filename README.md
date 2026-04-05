@@ -38,7 +38,11 @@ Through **Tanishka.dev**, I continue to:
 
 ## 📬 Connect With Me
 
-[🌐 Portfolio](https://tanishka.dev) | [💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal/) | [🐙 GitHub](https://github.com/YourUsername) | [📧 Email](mailto:tanishka@example.com)
+[🌐 Portfolio](https://tanishka-dev.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
 
